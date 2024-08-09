@@ -1,0 +1,20 @@
+{
+    "supportedLocales": [
+        "en",
+        "zh"
+    ],
+    "items": [
+        {
+            "appName": {
+                "en": "App Name",
+                "cn": "程序名"
+            }
+        },
+        {
+            "home.tab1": {
+                "en": "Dashboard",
+                "cn": "首页"
+            }
+        }
+    ]
+}
